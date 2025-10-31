@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9483A086-3B13-4517-BE7F-C558A0AD8E62}|Mottu.Fleet.API\\Mottu.Fleet.API.csproj|c:\\users\\vin\u00EDciussiqueira\\downloads\\vinicius\\.net\\mottu.fleet\\mottu.fleet.api\\mottu.fleet.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9483A086-3B13-4517-BE7F-C558A0AD8E62}|Mottu.Fleet.API\\Mottu.Fleet.API.csproj|solutionrelative:mottu.fleet.api\\mottu.fleet.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9483A086-3B13-4517-BE7F-C558A0AD8E62}|Mottu.Fleet.API\\Mottu.Fleet.API.csproj|c:\\users\\vin\u00EDciussiqueira\\downloads\\vinicius\\.net\\mottu.fleet\\mottu.fleet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9483A086-3B13-4517-BE7F-C558A0AD8E62}|Mottu.Fleet.API\\Mottu.Fleet.API.csproj|solutionrelative:mottu.fleet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9483A086-3B13-4517-BE7F-C558A0AD8E62}|Mottu.Fleet.API\\Mottu.Fleet.API.csproj|c:\\users\\vin\u00EDciussiqueira\\downloads\\vinicius\\.net\\mottu.fleet\\mottu.fleet.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9483A086-3B13-4517-BE7F-C558A0AD8E62}|Mottu.Fleet.API\\Mottu.Fleet.API.csproj|solutionrelative:mottu.fleet.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF246D9-436F-4329-B32E-350FC151DF4C}|Mottu.Fleet.Application\\Mottu.Fleet.Application.csproj|c:\\users\\vin\u00EDciussiqueira\\downloads\\vinicius\\.net\\mottu.fleet\\mottu.fleet.application\\mapping\\mappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF246D9-436F-4329-B32E-350FC151DF4C}|Mottu.Fleet.Application\\Mottu.Fleet.Application.csproj|solutionrelative:mottu.fleet.application\\mapping\\mappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53757A30-1F96-437B-9E7B-7113CFAC0CF0}|Mottu.Fleet.Domain\\Mottu.Fleet.Domain.csproj|c:\\users\\vin\u00EDciussiqueira\\downloads\\vinicius\\.net\\mottu.fleet\\mottu.fleet.domain\\entities\\patiomongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53757A30-1F96-437B-9E7B-7113CFAC0CF0}|Mottu.Fleet.Domain\\Mottu.Fleet.Domain.csproj|solutionrelative:mottu.fleet.domain\\entities\\patiomongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53757A30-1F96-437B-9E7B-7113CFAC0CF0}|Mottu.Fleet.Domain\\Mottu.Fleet.Domain.csproj|c:\\users\\vin\u00EDciussiqueira\\downloads\\vinicius\\.net\\mottu.fleet\\mottu.fleet.domain\\entities\\motomongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53757A30-1F96-437B-9E7B-7113CFAC0CF0}|Mottu.Fleet.Domain\\Mottu.Fleet.Domain.csproj|solutionrelative:mottu.fleet.domain\\entities\\motomongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mottu.Fleet.API.http",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.API\\Mottu.Fleet.API.http",
+              "RelativeDocumentMoniker": "Mottu.Fleet.API\\Mottu.Fleet.API.http",
+              "ToolTip": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.API\\Mottu.Fleet.API.http",
+              "RelativeToolTip": "Mottu.Fleet.API\\Mottu.Fleet.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-31T01:42:33.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Mottu.Fleet.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.API\\appsettings.json",
+              "RelativeToolTip": "Mottu.Fleet.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T01:40:03.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatioMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.Domain\\Entities\\PatioMongo.cs",
+              "RelativeDocumentMoniker": "Mottu.Fleet.Domain\\Entities\\PatioMongo.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.Domain\\Entities\\PatioMongo.cs",
+              "RelativeToolTip": "Mottu.Fleet.Domain\\Entities\\PatioMongo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:38:24.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MotoMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.Domain\\Entities\\MotoMongo.cs",
+              "RelativeDocumentMoniker": "Mottu.Fleet.Domain\\Entities\\MotoMongo.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.Domain\\Entities\\MotoMongo.cs",
+              "RelativeToolTip": "Mottu.Fleet.Domain\\Entities\\MotoMongo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:37:57.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile .cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.Application\\Mapping\\MappingProfile .cs",
+              "RelativeDocumentMoniker": "Mottu.Fleet.Application\\Mapping\\MappingProfile .cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.Application\\Mapping\\MappingProfile .cs",
+              "RelativeToolTip": "Mottu.Fleet.Application\\Mapping\\MappingProfile .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:36:43.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.API\\Program.cs",
+              "RelativeDocumentMoniker": "Mottu.Fleet.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDciusSiqueira\\Downloads\\Vinicius\\.Net\\Mottu.Fleet\\Mottu.Fleet.API\\Program.cs",
+              "RelativeToolTip": "Mottu.Fleet.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:23:43.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+@host = http://localhost:5010
+
+GET {{host}}/api/moto
+Accept: application/json
+
+GET {{host}}/api/moto/1
+Accept: application/json

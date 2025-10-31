@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mottu.Fleet.API</name>
+    </assembly>
+    <members>
+        <member name="M:Mottu.Fleet.API.Controllers.MotosMongoController.GetAll">
+            <summary>
+            Retorna todas as motos cadastradas
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.MotosMongoController.GetById(System.String)">
+            <summary>
+            Retorna uma moto específica por ID
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.MotosMongoController.GetByPlaca(System.String)">
+            <summary>
+            Retorna uma moto por placa
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.MotosMongoController.GetByPatio(System.String)">
+            <summary>
+            Retorna todas as motos de um pátio específico
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.MotosMongoController.GetByStatus(System.String)">
+            <summary>
+            Retorna motos por status
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.MotosMongoController.Create(Mottu.Fleet.Domain.Entities.MotoMongo)">
+            <summary>
+            Cria uma nova moto
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.MotosMongoController.Update(System.String,Mottu.Fleet.Domain.Entities.MotoMongo)">
+            <summary>
+            Atualiza uma moto existente
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.MotosMongoController.Delete(System.String)">
+            <summary>
+            Deleta uma moto
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.PatiosMongoController.GetAll">
+            <summary>
+            Retorna todos os pátios
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.PatiosMongoController.GetById(System.String)">
+            <summary>
+            Retorna um pátio por ID
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.PatiosMongoController.GetAtivos">
+            <summary>
+            Retorna apenas pátios ativos
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.PatiosMongoController.GetDisponiveis">
+            <summary>
+            Retorna pátios com vagas disponíveis
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.PatiosMongoController.Create(Mottu.Fleet.Domain.Entities.PatioMongo)">
+            <summary>
+            Cria um novo pátio
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.PatiosMongoController.Update(System.String,Mottu.Fleet.Domain.Entities.PatioMongo)">
+            <summary>
+            Atualiza um pátio existente
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.PatiosMongoController.Desativar(System.String)">
+            <summary>
+            Desativa um pátio (soft delete)
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.PatiosMongoController.Delete(System.String)">
+            <summary>
+            Deleta um pátio permanentemente
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.UsuariosMongoController.GetAll">
+            <summary>
+            Retorna todos os usuários
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.UsuariosMongoController.GetById(System.String)">
+            <summary>
+            Retorna um usuário por ID
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.UsuariosMongoController.GetByUsername(System.String)">
+            <summary>
+            Retorna um usuário por username
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.UsuariosMongoController.GetByPerfil(System.String)">
+            <summary>
+            Retorna usuários por perfil
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.UsuariosMongoController.GetAtivos">
+            <summary>
+            Retorna apenas usuários ativos
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.UsuariosMongoController.Create(Mottu.Fleet.Domain.Entities.UsuarioMongo)">
+            <summary>
+            Cria um novo usuário
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.UsuariosMongoController.Update(System.String,Mottu.Fleet.Domain.Entities.UsuarioMongo)">
+            <summary>
+            Atualiza um usuário existente
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.UsuariosMongoController.AtualizarUltimoAcesso(System.String)">
+            <summary>
+            Atualiza o último acesso do usuário
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.UsuariosMongoController.Desativar(System.String)">
+            <summary>
+            Desativa um usuário (soft delete)
+            </summary>
+        </member>
+        <member name="M:Mottu.Fleet.API.Controllers.UsuariosMongoController.Delete(System.String)">
+            <summary>
+            Deleta um usuário permanentemente
+            </summary>
+        </member>
+    </members>
+</doc>
